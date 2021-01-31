@@ -7,11 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-/* 
-nav {
-    display: flex;
-    flex-wrap: nowrap;
-    flex-direction: row;  */
+/* header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -53,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/*main photo*/
 .hero {
     height: 800px;
     width: 100%;
@@ -89,7 +85,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/*created new class to simplify css*/
 .benefits1 {
     margin-bottom: 32px;
     color: #ffffff;
@@ -105,7 +101,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* new class created called contents1 to simplify CSS*/
 .content1 {
     margin-bottom: 20px;
     padding: 50px;
@@ -123,7 +119,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*footer*/
 .footer {
     padding: 30px;
     clear: both;
